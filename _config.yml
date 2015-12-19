@@ -1,7 +1,7 @@
 name: WilsonStrategic
 favicon: null
-layout_spectrum: 0.28763981722295284
-typography_spectrum: 0.04484433913603425
+layout_spectrum: 0.33821
+typography_spectrum: 0.51684
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.26468672859482467
-  lightness: 0.49104610341601074
+    - '#d4232b'
+    - '#5a5c5d'
+    - '#ffffff'
+    - '#5d85a8'
+    - '#d3c44f'
+  brandStrength: 0.6875
+  lightness: 0.8125
   saturation: 0.9041931976098567
-  rhythmicContrast: 0.4019392505288124
+  rhythmicContrast: 0.75
 purpose: []
