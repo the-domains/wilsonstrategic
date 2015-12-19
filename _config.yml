@@ -1,0 +1,28 @@
+name: WilsonStrategic
+favicon: null
+layout_spectrum: 0.28763981722295284
+typography_spectrum: 0.04484433913603425
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.26468672859482467
+  lightness: 0.49104610341601074
+  saturation: 0.9041931976098567
+  rhythmicContrast: 0.4019392505288124
+purpose: []
